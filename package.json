@@ -1,11 +1,13 @@
-"overrides": {
-  "npm": {
-    "legacy-peer-deps": true
-  }
-}
+
 
 
 {
+
+  "overrides": {
+  "npm": {
+    "legacy-peer-deps": true
+  }
+},
   "name": "lotto-again-cms",
   "version": "0.1.0",
   "private": true,
