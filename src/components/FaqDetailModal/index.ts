@@ -1,0 +1,1 @@
+export { FaqDetailModal } from './FaqDetailModal';

@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.ant-upload-list-picture-card .ant-upload-list-item-info::before {
+  right: 0;
+}
+
+@media only screen and (max-width: 740px) {
+  .ant-form-item-control:first-child:not([class^='ant-col-']):not([class*=' ant-col-']) {
+    width: 79vw !important;
+  }
+}

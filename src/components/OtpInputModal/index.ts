@@ -1,0 +1,1 @@
+export { OtpInputModal } from './OtpInputModal';
